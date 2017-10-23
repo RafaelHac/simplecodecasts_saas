@@ -19,7 +19,7 @@ Rails.application.routes.draw do
 
   # Example resource route with options:
   #   resources :products do
-  #     member do
+  #     member dogit status
   #       get 'short'
   #       post 'toggle'
   #     end
